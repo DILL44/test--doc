@@ -1,4 +1,4 @@
 # doc technique
 
 ici la doc technique !
-## [deployment](/technique/deployement.md)
+## [deployment](technique/deployement.md)
