@@ -5,6 +5,8 @@ coverY: 0
 
 # test--doc
 
+test sync
+
 page principal de test de doc
 
 test de modif
